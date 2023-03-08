@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<annotation>
+   <folder>Dataset</folder>
+   <filename>00248.jpg</filename>
+   <path>/home/el/Documents/My Object Dataset/Dataset/images/00248.jpg</path>
+   <source>
+      <database>Objects Dataset (Generated)</database>
+   </source>
+   <size>
+      <width>480</width>
+      <height>480</height>
+      <depth>3</depth>
+   </size>
+   <segmented>0</segmented>
+   <object>
+      <name>3</name>
+      <bndbox>
+         <xmin>58</xmin>
+         <ymin>77</ymin>
+         <xmax>108</xmax>
+         <ymax>127</ymax>
+      </bndbox>
+   </object>
+   <object>
+      <name>1</name>
+      <bndbox>
+         <xmin>253</xmin>
+         <ymin>272</ymin>
+         <xmax>303</xmax>
+         <ymax>322</ymax>
+      </bndbox>
+   </object>
+   <distance>275.77164466275354</distance>
+   <distanceLabel>2</distanceLabel>
+</annotation>
